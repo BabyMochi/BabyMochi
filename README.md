@@ -5,7 +5,8 @@
 const awenli = {
   pronouns: ["He", "Him"],
   school: ["Univeristy of California Davis"],
-  major: ["Business and Computer Science"] 
+  major: ["Business and Computer Science"]
+  graduation: ["December 2022"] 
 }
 ```
 
@@ -39,25 +40,44 @@ Databases: MySQL, CockroachDB
 
 ### UC Berkeley Cal Hacks, Predict A Pulse AI, Oct 2023 - Present
      • Front-end website design and deployment using Figma and Vercel
-     • Built database management using CockroachDB and SQL, helped hosted over thousands of datasets
+     • Database management using CockroachDB and SQL, helped hosted over thousands of datasets
      • Image transformation to character reading with Tesseract OCR (Optical Object Reading)
-     • Successfully addressed post-forward custom backend API problem
+     • Addressing post-forward custom backend API problem
 
 ### UCLA Hacks, AI Brainwave Seizure Detection, Apr 2022 - Present
-     • Designed intricate deep brain modeling of neurons and defining specific parts of the brain triggers
-     • Developed data visualization graphs through MATLAB and TensorFlow usage, enabled generating multiple image comparisons with Electroencephalogram (EEG) data analysis
-     • Modified front-end development of brainwave and neuron visualization through HTML/CSS, provided user interface with ease of navigation and usage
+     • Intricate deep brain modeling of neurons and defining specific parts of the brain triggers
+     • Developed data visualization graphs through MATLAB and TensorFlow usage for Electroencephalogram (EEG) data analysis
+     • Front-end development using HTML/CSS, provided user interface with ease of navigation and usage
 
 ### HackDavis, AI Cancer Detection, Jan 2020
-     • Researched defining stages of cancer and hypothesized viable treatments, leading to the development of highly accurate Artificial Intelligence models with 99.17% accuracy
-     • Built initial regression model of Convolutional Neural Network (CNN) in Google Colab for cancer comparisons
-     • Maintained large dataset of over 1000+ images and eliminated confounding images
+     • Development model for defining stages of cancer and development of highly accurate Artificial Intelligence models with 99.17% accuracy
+     • Building initial regression model of Convolutional Neural Network (CNN) in Google Colab for cancer comparisons
+     • Working with large dataset of over 1000+ images and eliminated confounding images
 
 ### TwitchCon Developers, Teams +, Sep 2019
-     • Designed user UX extension dashboard for easier navigation of creating safer communities between close-knit streamers, providing levels of trust for chatters and personalized interactions to streamers
-     • Managed and analyzed Software Development Life Cycle (SDLC) of Teams+ extension through beta testing, improved product development requirements
-     • Surveyed streamers and addressed feedback, corrected adjustments for cross-functionality and usability of the extension page
+     • Focused on providing levels of trsut for streamers members within streaming communities through safety extension
+     • User UX extension dashboard for easier navigation of creating safer communities between close-knit streamers, personalized interactions to streamers
+     • Analyzing and testing of Teams+ extension through beta testing, improved product development requirements
 
+## Leadership
+### Formula One Racing at UC Davis - Operations and Firmware Team, Oct 2022 – Jun 2023
+    • Collaborated with sub-team of 10 engineers on writing and developing firmware for F1 race car 
+    • Tested functional operations and safety parameters of car. and optimized control improvements of wind resistance and torque control during acceleration by 20% on tarmac
+    • Managed sponsoring events and budgetary at downtown local restaurants to raise over $3,000 for necessary equipment of the car
+
+### UC Davis Economics Business Student Association - Member, Jan 2022 – Oct 2022
+    • Led six-member team in collaboration with Clorox to represent global energy crisis with focus on rising oil and gas prices with OPEC
+    • Researched and proposed optimal solutions to issues concerning stabilization of oil markets via supply and demand, fair consumer pricing, and elimination of waste
+    • Created easy to interpret timeline and cost/budget analysis solution through Google Slides graphics
+
+## Awards
+• Economics Business Student Assoication 2nd Place (May 21 2022)
+• UCLA Hacks Finalist Award Health/Tech (April 15-17, 2022)
+• UC Davis Hackathon Finalist Award Health/Tech (Jan 16 – 17, 2020)
+• TwitchCon Developers Hackathon Finalist Award (Sept 28 – 29, 2019)
+
+## Interests
+• Some of my interests are running, photography, dancing, Machine Learning, eating out, and of course hackathons
 
 🌱 currently working on large SQL data and looking to incorporate it with ai and ml models
 
