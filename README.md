@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Related Coursework: Related Coursework: Artificial Intelligence, Machine Learning, Object Orientated Programming, Data Structures, Algorithms and Design, Discrete Math, Linear Algebra, Econometrics, Applied Statistics, Principles of Finance, Micro/Macro Economics, Macro Theory, Managerial Accounting/Marketing, Coop Business Enterprise
+## Related Coursework: Related Coursework: Artificial Intelligence, Machine Learning, Object Orientated Programming, Data Structures, Algorithms and Design, Discrete Math, Linear Algebra, Econometrics, Applied Statistics, Principles of Finance, Micro/Macro Economics, Macro Theory, Managerial Accounting/Marketing, Coop Business Enterprise
 
-#Skills
+## Skills
 Languages: Python, HTML/CSS, MATLAB, SQL, Stata
 Libraries: PyTorch, Tensorflow, Pandas, NumPy, Matplotlib, Scikit-learn, Keras, Seaborn
 Other Software: MySQL, Google Colab, Jupyter Notebook, Vercel, Tesseract OCR (Optical Object Reading),  LaTeX, Trello, Slack, Discord, Figma, Social Media Platforms, Microsoft Office Suite, Google Drive Platforms, Adobe (InDesign, PDF), Salesforce, Tableau
