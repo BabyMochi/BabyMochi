@@ -45,9 +45,9 @@ Databases: MySQL, CockroachDB
   • Addressing post-forward custom backend API problem  
 
 ### UCLA Hacks, AI Brainwave Seizure Detection, Apr 2022 - Present
-     • Intricate deep brain modeling of neurons and defining specific parts of the brain triggers
-     • Developed data visualization graphs through MATLAB and TensorFlow usage for Electroencephalogram (EEG) data analysis
-     • Front-end development using HTML/CSS, provided user interface with ease of navigation and usage
+• Intricate deep brain modeling of neurons and defining specific parts of the brain triggers  
+• Developed data visualization graphs through MATLAB and TensorFlow usage for Electroencephalogram (EEG) data analysis  
+• Front-end development using HTML/CSS, provided user interface with ease of navigation and usage  
 
 ### HackDavis, AI Cancer Detection, Jan 2020
 • Development model for defining stages of cancer and development of highly accurate Artificial Intelligence models with 99.17% accuracy  
