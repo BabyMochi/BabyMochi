@@ -9,7 +9,7 @@ const awenli = {
 }
 ```
 
-🔭 I’m currently working on UC Berkeley projects!
+🔭 I am currently working on UC Berkeley projects!
 
 <!--
 **BabyMochi/BabyMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,21 +44,19 @@ Databases: MySQL, CockroachDB
      • Successfully addressed post-forward custom backend API problem
 
 ### UCLA Hacks, AI Brainwave Seizure Detection, Apr 2022 - Present
-     • Designed intricate deep brain modeling of neurons and defining specific parts of the brain triggers, producing 50% improved high detailed data for clear and concise understanding
+     • Designed intricate deep brain modeling of neurons and defining specific parts of the brain triggers
      • Developed data visualization graphs through MATLAB and TensorFlow usage, enabled generating multiple image comparisons with Electroencephalogram (EEG) data analysis
      • Modified front-end development of brainwave and neuron visualization through HTML/CSS, provided user interface with ease of navigation and usage
-     • Developed data visualization graphs through MATLAB and TensorFlow usage
 
 ### HackDavis, AI Cancer Detection, Jan 2020
-     • Researched defining stages of cancer and hypothesized viable treatments, leading to the development of highly accurate Artificial Intelligence models with 99.17% accuracy for Brain Cancer and 97% for Breast Cancer, improving distinction between types of cancer
-     • Built initial regression model of Convolutional Neural Network (CNN) in Google Colab for multiple cancer comparisons, providing in-depth graphical structures
-     • Maintained ongoing data mining and data cleaning of 1000+ imagery data, eliminated confounding images
-     • Successfully addressed and mitigated preprocessing challenges and overfitting risks, ensuring high-quality data and model robustness
+     • Researched defining stages of cancer and hypothesized viable treatments, leading to the development of highly accurate Artificial Intelligence models with 99.17% accuracy
+     • Built initial regression model of Convolutional Neural Network (CNN) in Google Colab for cancer comparisons
+     • Maintained large dataset of over 1000+ images and eliminated confounding images
 
 ### TwitchCon Developers, Teams +, Sep 2019
      • Designed user UX extension dashboard for easier navigation of creating safer communities between close-knit streamers, providing levels of trust for chatters and personalized interactions to streamers
-     • Managed and analyzed Software Development Life Cycle (SDLC) of Teams+ extension through beta testing, improved product development requirements and business processes
-     • Surveyed over 25 streamers and addressed feedback, corrected adjustments for cross-functionality and usability of the extension page
+     • Managed and analyzed Software Development Life Cycle (SDLC) of Teams+ extension through beta testing, improved product development requirements
+     • Surveyed streamers and addressed feedback, corrected adjustments for cross-functionality and usability of the extension page
 
 
 🌱 currently working on large SQL data and looking to incorporate it with ai and ml models
