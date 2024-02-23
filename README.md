@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Related Coursework: Related Coursework:
+## Related Coursework:
 Artificial Intelligence, Machine Learning, Object Orientated Programming, Data Structures, Algorithms and Design, Discrete Math, Linear Algebra, Econometrics, Applied Statistics
 ## Skills
 Languages: Python, HTML/CSS, MATLAB, SQL, Stata
