@@ -1,6 +1,5 @@
 # Hello!, 안녕하세요!, Ciao!, 你好!, Bonjour!
-## I'm Awen Li! 👋
-### Welcome to my coding space
+## I'm Awen Li!  Welcome to my coding space 👋
 
 <!--
 **BabyMochi/BabyMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +21,8 @@ Artificial Intelligence, Machine Learning, Object Orientated Programming, Data S
 ## Skills
 Languages: Python, HTML/CSS, MATLAB, SQL, Stata
 Libraries: PyTorch, Tensorflow, Pandas, NumPy, Matplotlib, Scikit-learn, Keras, Seaborn
-Other Software: MySQL, Google Colab, Jupyter Notebook, Vercel, Tesseract OCR (Optical Object Reading),  LaTeX, Trello, Slack, Discord, Figma, Social Media Platforms, Microsoft Office Suite, Google Drive Platforms, Adobe (InDesign, PDF), Salesforce, Tableau
+Other Software: MySQL, Google Colab, Jupyter Notebook, Vercel, Tesseract OCR (Optical Object Reading), LaTeX, Figma, Tableau
+Databases: MySQL, CockroachDB
 
 🔭 I’m currently working on UC Berkeley projects!
 
