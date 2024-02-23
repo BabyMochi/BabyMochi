@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on UC Berkeley projects!
+🌱 currently working on large SQL data and looking to incorporate it with ai and ml models
+🔬 currently tinkering with projects using pytorch and tensorflow!
+
  ```cpp
 const awen = {
   pronouns: ["he", "him"],
