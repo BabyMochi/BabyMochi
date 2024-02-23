@@ -1,4 +1,4 @@
-# Hello!, 안녕하세요!, ciao!, 你好!, bonjour!
+# Hello!, 안녕하세요!, Ciao!, 你好!, Bonjour!
 ## I'm Awen Li! 👋
 ### Welcome to my coding space
 
