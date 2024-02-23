@@ -1,7 +1,7 @@
 # Hello!, 안녕하세요!, Ciao!, 你好!, Bonjour!
 ## I'm Awen Li! 👋
 ### Welcome to my coding space
-
+GPA: 4.0
 <!--
 **BabyMochi/BabyMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
