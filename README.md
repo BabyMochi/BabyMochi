@@ -50,9 +50,9 @@ Databases: MySQL, CockroachDB
      • Front-end development using HTML/CSS, provided user interface with ease of navigation and usage
 
 ### HackDavis, AI Cancer Detection, Jan 2020
-     • Development model for defining stages of cancer and development of highly accurate Artificial Intelligence models with 99.17% accuracy
-     • Building initial regression model of Convolutional Neural Network (CNN) in Google Colab for cancer comparisons
-     • Working with large dataset of over 1000+ images and eliminated confounding images
+• Development model for defining stages of cancer and development of highly accurate Artificial Intelligence models with 99.17% accuracy  
+• Building initial regression model of Convolutional Neural Network (CNN) in Google Colab for cancer comparisons
+• Working with large dataset of over 1000+ images and eliminated confounding images
 
 ### TwitchCon Developers, Teams +, Sep 2019
      • Focused on providing levels of trsut for streamers members within streaming communities through safety extension
@@ -65,13 +65,8 @@ Databases: MySQL, CockroachDB
 • Tested functional operations and safety parameters of car. and optimized control improvements of wind resistance and torque control during acceleration by 20% on tarmac  
 • Managed sponsoring events and budgetary at downtown local restaurants to raise over $3,000 for necessary equipment of the car  
 
-### UC Davis Economics Business Student Association - Member, Jan 2022 – Oct 2022
-• Led six-member team in collaboration with Clorox to represent global energy crisis with focus on rising oil and gas prices with OPEC  
-• Researched and proposed optimal solutions to issues concerning stabilization of oil markets via supply and demand, fair consumer pricing, and elimination of waste  
-• Created easy to interpret timeline and cost/budget analysis solution through Google Slides graphics  
 
 ## Awards
-• Economics Business Student Assoication 2nd Place (May 21 2022)  
 • UCLA Hacks Finalist Award Health/Tech (April 15-17, 2022)  
 • UC Davis Hackathon Finalist Award Health/Tech (Jan 16 – 17, 2020)  
 • TwitchCon Developers Hackathon Finalist Award (Sept 28 – 29, 2019)  
