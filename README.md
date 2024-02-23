@@ -3,7 +3,7 @@
 
  ```cpp
 const awenli = {
-  pronouns: ["He", "Him"],
+
   school: ["Univeristy of California Davis"],
   major: ["Business and Computer Science"],
   graduation: ["December 2022"] 
