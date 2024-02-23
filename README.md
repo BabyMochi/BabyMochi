@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+** lol **
 
 ## Related Coursework:
 Artificial Intelligence, Machine Learning, Object Orientated Programming, Data Structures, Algorithms and Design, Discrete Math, Linear Algebra, Econometrics, Applied Statistics
@@ -52,12 +53,12 @@ Databases: MySQL, CockroachDB
 ### HackDavis, AI Cancer Detection, Jan 2020
 • Development model for defining stages of cancer and development of highly accurate Artificial Intelligence models with 99.17% accuracy  
 • Building initial regression model of Convolutional Neural Network (CNN) in Google Colab for cancer comparisons  
-• Working with large dataset of over 1000+ images and eliminated confounding images
+• Working with large dataset of over 1000+ images and eliminated confounding images  
 
 ### TwitchCon Developers, Teams +, Sep 2019
-     • Focused on providing levels of trsut for streamers members within streaming communities through safety extension
-     • User UX extension dashboard for easier navigation of creating safer communities between close-knit streamers, personalized interactions to streamers
-     • Analyzing and testing of Teams+ extension through beta testing, improved product development requirements
+• Focused on providing levels of trsut for streamers members within streaming communities through safety extension  
+• User UX extension dashboard for easier navigation of creating safer communities between close-knit streamers, personalized interactions to streamers  
+• Analyzing and testing of Teams+ extension through beta testing, improved product development requirements  
 
 ## Leadership
 ### Formula One Racing at UC Davis - Operations and Firmware Team, Oct 2022 – Jun 2023
