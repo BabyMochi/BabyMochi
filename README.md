@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ```py
+ ```cpp
 const awen = {
   pronouns: ["he", "him"],
   code: ["python","SQL", "html", "css"],
