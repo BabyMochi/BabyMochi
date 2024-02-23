@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ```py
+const awen = {
+  pronouns: ["he", "him"],
+  code: ["python","SQL", "html", "css"],
+  tools: [ "MYSQL", "cockroachdb"],
+  school: ["univeristy of calironia davis"],
+  clubs: {
+    "Formula One at UC Davis": {
+      role: "math"
+    },
+    "Economics Business Student Association": {
+      role: "member"
+    }
+  }
+}
