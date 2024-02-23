@@ -1,7 +1,7 @@
 # Hello!, 안녕하세요!, Ciao!, 你好!, Bonjour!
 ## I'm Awen Li! 👋
 ### Welcome to my coding space
-GPA: 4.0
+
 <!--
 **BabyMochi/BabyMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##Related Coursework: Related Coursework: Artificial Intelligence, Machine Learning, Object Orientated Programming, Data Structures, Algorithms and Design, Discrete Math, Linear Algebra, Econometrics, Applied Statistics, Principles of Finance, Micro/Macro Economics, Macro Theory, Managerial Accounting/Marketing, Coop Business Enterprise
+
+#Skills
+Languages: Python, HTML/CSS, MATLAB, SQL, Stata
+Libraries: PyTorch, Tensorflow, Pandas, NumPy, Matplotlib, Scikit-learn, Keras, Seaborn
+Other Software: MySQL, Google Colab, Jupyter Notebook, Vercel, Tesseract OCR (Optical Object Reading),  LaTeX, Trello, Slack, Discord, Figma, Social Media Platforms, Microsoft Office Suite, Google Drive Platforms, Adobe (InDesign, PDF), Salesforce, Tableau
 
 🔭 I’m currently working on UC Berkeley projects!
 
