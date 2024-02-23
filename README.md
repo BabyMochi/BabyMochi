@@ -3,11 +3,9 @@
 
  ```cpp
 const awenli = {
-
   school: ["Univeristy of California Davis"],
   major: ["Business and Computer Science"],
   graduation: ["December 2022"]
-
 }
 ```
 
