@@ -74,7 +74,7 @@ Databases: MySQL, CockroachDB
 • TwitchCon Developers Hackathon Finalist Award (Sept 28 – 29, 2019)  
 
 ## Interests
-• Some of my interests are running, photography, dancing, Machine Learning, eating out, and of course hackathons
+• Some of my interests are running, photography, dancing, ML and AI, eating out, and of course hackathons
 
 🌱 currently working on large SQL data and looking to incorporate it with ai and ml models
 
