@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Awen 👋
+## test
 <!--
 **BabyMochi/BabyMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on UC Berkeley projects!
  ```cpp
 const awen = {
   pronouns: ["he", "him"],
