@@ -36,7 +36,7 @@ Databases: MySQL, CockroachDB
 
 • Successfully addressed post-forward custom backend API problem
 
-#### UCLA Hacks, AI Brainwave Seizure Detection, Apr 2022 - Present
+### UCLA Hacks, AI Brainwave Seizure Detection, Apr 2022 - Present
 • Designed intricate deep brain modeling of neurons and defining specific parts of the brain triggers, producing 50% improved high detailed data for clear and concise understanding
 
 • Developed data visualization graphs through MATLAB and TensorFlow usage, enabled generating multiple image comparisons with Electroencephalogram (EEG) data analysis
@@ -45,7 +45,7 @@ Databases: MySQL, CockroachDB
 
 • Developed data visualization graphs through MATLAB and TensorFlow usage
 
-#### HackDavis, AI Cancer Detection, Jan 2020
+### HackDavis, AI Cancer Detection, Jan 2020
 • Researched defining stages of cancer and hypothesized viable treatments, leading to the development of highly accurate Artificial Intelligence models with 99.17% accuracy for Brain Cancer and 97% for Breast Cancer, improving distinction between types of cancer
 
 • Built initial regression model of Convolutional Neural Network (CNN) in Google Colab for multiple cancer comparisons, providing in-depth graphical structures
@@ -55,7 +55,7 @@ Databases: MySQL, CockroachDB
 • Successfully addressed and mitigated preprocessing challenges and overfitting risks, ensuring high-quality data and model robustness
 
 
-#### TwitchCon Developers, Teams +, Sep 2019
+### TwitchCon Developers, Teams +, Sep 2019
 • Designed user UX extension dashboard for easier navigation of creating safer communities between close-knit streamers, providing levels of trust for chatters and personalized interactions to streamers
 
 • Managed and analyzed Software Development Life Cycle (SDLC) of Teams+ extension through beta testing, improved product development requirements and business processes
