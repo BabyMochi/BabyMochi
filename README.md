@@ -61,20 +61,20 @@ Databases: MySQL, CockroachDB
 
 ## Leadership
 ### Formula One Racing at UC Davis - Operations and Firmware Team, Oct 2022 – Jun 2023
-    • Collaborated with sub-team of 10 engineers on writing and developing firmware for F1 race car 
-    • Tested functional operations and safety parameters of car. and optimized control improvements of wind resistance and torque control during acceleration by 20% on tarmac
-    • Managed sponsoring events and budgetary at downtown local restaurants to raise over $3,000 for necessary equipment of the car
+• Collaborated with sub-team of 10 engineers on writing and developing firmware for F1 race car  
+• Tested functional operations and safety parameters of car. and optimized control improvements of wind resistance and torque control during acceleration by 20% on tarmac  
+• Managed sponsoring events and budgetary at downtown local restaurants to raise over $3,000 for necessary equipment of the car  
 
 ### UC Davis Economics Business Student Association - Member, Jan 2022 – Oct 2022
-    • Led six-member team in collaboration with Clorox to represent global energy crisis with focus on rising oil and gas prices with OPEC
-    • Researched and proposed optimal solutions to issues concerning stabilization of oil markets via supply and demand, fair consumer pricing, and elimination of waste
-    • Created easy to interpret timeline and cost/budget analysis solution through Google Slides graphics
+• Led six-member team in collaboration with Clorox to represent global energy crisis with focus on rising oil and gas prices with OPEC  
+• Researched and proposed optimal solutions to issues concerning stabilization of oil markets via supply and demand, fair consumer pricing, and elimination of waste  
+• Created easy to interpret timeline and cost/budget analysis solution through Google Slides graphics  
 
 ## Awards
-• Economics Business Student Assoication 2nd Place (May 21 2022)
-• UCLA Hacks Finalist Award Health/Tech (April 15-17, 2022)
-• UC Davis Hackathon Finalist Award Health/Tech (Jan 16 – 17, 2020)
-• TwitchCon Developers Hackathon Finalist Award (Sept 28 – 29, 2019)
+• Economics Business Student Assoication 2nd Place (May 21 2022)  
+• UCLA Hacks Finalist Award Health/Tech (April 15-17, 2022)  
+• UC Davis Hackathon Finalist Award Health/Tech (Jan 16 – 17, 2020)  
+• TwitchCon Developers Hackathon Finalist Award (Sept 28 – 29, 2019)  
 
 ## Interests
 • Some of my interests are running, photography, dancing, Machine Learning, eating out, and of course hackathons
