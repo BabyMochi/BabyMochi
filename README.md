@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-** lol **
+
+<!-- double spaces at the end of the line were used to help indent to the next line -->
 
 ## Related Coursework:
 Artificial Intelligence, Machine Learning, Object Orientated Programming, Data Structures, Algorithms and Design, Discrete Math, Linear Algebra, Econometrics, Applied Statistics
