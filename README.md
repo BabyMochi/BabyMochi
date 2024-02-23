@@ -9,6 +9,8 @@ const awenli = {
 }
 ```
 
+🔭 I’m currently working on UC Berkeley projects!
+
 <!--
 **BabyMochi/BabyMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,7 +60,6 @@ Databases: MySQL, CockroachDB
      • Managed and analyzed Software Development Life Cycle (SDLC) of Teams+ extension through beta testing, improved product development requirements and business processes
      • Surveyed over 25 streamers and addressed feedback, corrected adjustments for cross-functionality and usability of the extension page
 
-🔭 I’m currently working on UC Berkeley projects!
 
 🌱 currently working on large SQL data and looking to incorporate it with ai and ml models
 
