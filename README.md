@@ -26,7 +26,7 @@ Other Software: MySQL, Google Colab, Jupyter Notebook, Vercel, Tesseract OCR (Op
 Databases: MySQL, CockroachDB
 
 ## Highlighted Projects
-Project – UC Berkeley Cal Hacks, Predict A Pulse AI                                   Oct 2023
+#### UC Berkeley Cal Hacks, Predict A Pulse AI                                   Oct 2023
 •    Front-end website design and deployment using Figma and Vercel
 
 •    Built database management using CockroachDB and SQL, helped hosted over thousands of datasets
@@ -35,7 +35,7 @@ Project – UC Berkeley Cal Hacks, Predict A Pulse AI                           
 
 •    Successfully addressed post-forward custom backend API problem
 
-Project – UCLA Hacks, AI Brainwave Seizure Detection                                  Apr 2022
+#### UCLA Hacks, AI Brainwave Seizure Detection                                  Apr 2022
 •    Designed intricate deep brain modeling of neurons and defining specific parts of the brain triggers, producing 50% improved high detailed data for clear and concise understanding
 
 •    Developed data visualization graphs through MATLAB and TensorFlow usage, enabled generating multiple image comparisons with Electroencephalogram (EEG) data analysis
@@ -44,7 +44,7 @@ Project – UCLA Hacks, AI Brainwave Seizure Detection                          
 
 •    Developed data visualization graphs through MATLAB and TensorFlow usage
 
-Project - HackDavis, AI Cancer Detection                                           Jan 2020
+#### HackDavis, AI Cancer Detection                                           Jan 2020
 •    Researched defining stages of cancer and hypothesized viable treatments, leading to the development of highly accurate Artificial Intelligence models with 99.17% accuracy for Brain Cancer and 97% for Breast Cancer, improving distinction between types of cancer
 
 •    Built initial regression model of Convolutional Neural Network (CNN) in Google Colab for multiple cancer comparisons, providing in-depth graphical structures
@@ -54,7 +54,7 @@ Project - HackDavis, AI Cancer Detection                                        
 •    Successfully addressed and mitigated preprocessing challenges and overfitting risks, ensuring high-quality data and model robustness
 
 
-Project – TwitchCon Developers, Teams +                                           Sep 2019
+#### TwitchCon Developers, Teams +                                           Sep 2019
 •    Designed user UX extension dashboard for easier navigation of creating safer communities between close-knit streamers, providing levels of trust for chatters and personalized interactions to streamers
 
 •    Managed and analyzed Software Development Life Cycle (SDLC) of Teams+ extension through beta testing, improved product development requirements and business processes
