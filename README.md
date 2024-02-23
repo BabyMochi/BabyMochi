@@ -26,7 +26,8 @@ Other Software: MySQL, Google Colab, Jupyter Notebook, Vercel, Tesseract OCR (Op
 Databases: MySQL, CockroachDB
 
 ## Highlighted Projects
-#### UC Berkeley Cal Hacks, Predict A Pulse AI, Oct 2023 - Present
+
+### UC Berkeley Cal Hacks, Predict A Pulse AI, Oct 2023 - Present
 • Front-end website design and deployment using Figma and Vercel
 
 • Built database management using CockroachDB and SQL, helped hosted over thousands of datasets
