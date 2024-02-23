@@ -39,12 +39,12 @@ Databases: MySQL, CockroachDB
 ## Highlighted Projects
 
 ### UC Berkeley Cal Hacks, Predict A Pulse AI, Oct 2023 - Present
-   ##### • Front-end website design and deployment using Figma and Vercel
-   ##### • Database management using CockroachDB and SQL, helped hosted over thousands of datasets
-   ##### • Image transformation to character reading with Tesseract OCR (Optical Object Reading)
-   ##### • Addressing post-forward custom backend API problem
+  • Front-end website design and deployment using Figma and Vercel
+  • Database management using CockroachDB and SQL, helped hosted over thousands of datasets
+  • Image transformation to character reading with Tesseract OCR (Optical Object Reading)
+  • Addressing post-forward custom backend API problem
 
-## UCLA Hacks, AI Brainwave Seizure Detection, Apr 2022 - Present
+### UCLA Hacks, AI Brainwave Seizure Detection, Apr 2022 - Present
      • Intricate deep brain modeling of neurons and defining specific parts of the brain triggers
      • Developed data visualization graphs through MATLAB and TensorFlow usage for Electroencephalogram (EEG) data analysis
      • Front-end development using HTML/CSS, provided user interface with ease of navigation and usage
