@@ -1,6 +1,14 @@
 # Hello!, 안녕하세요!, Ciao!, 你好!, Bonjour!
 ## I'm Awen Li!  Welcome to my coding space 👨‍💻👋
 
+ ```cpp
+const awenli = {
+  pronouns: ["He", "Him"],
+  school: ["Univeristy of California Davis"],
+  major: ["Business and Computer Science"] 
+}
+
+
 <!--
 **BabyMochi/BabyMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,19 +65,3 @@ Databases: MySQL, CockroachDB
 🔬 currently tinkering with projects using pytorch and tensorflow!
 
 😄 I am also currently learning Korean language!
-
- ```cpp
-const awen = {
-  pronouns: ["he", "him"],
-  code: ["python","SQL", "html", "css"],
-  tools: [ "MYSQL", "cockroachdb"],
-  school: ["univeristy of calironia davis"],
-  clubs: {
-    "Formula One at UC Davis": {
-      role: "operations and firmware"
-    },
-    "Economics Business Student Association": {
-      role: "member"
-    }
-  }
-}
