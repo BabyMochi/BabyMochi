@@ -46,12 +46,9 @@ Databases: MySQL, CockroachDB
      • Successfully addressed and mitigated preprocessing challenges and overfitting risks, ensuring high-quality data and model robustness
 
 ### TwitchCon Developers, Teams +, Sep 2019
-• Designed user UX extension dashboard for easier navigation of creating safer communities between close-knit streamers, providing levels of trust for chatters and personalized interactions to streamers
-
-• Managed and analyzed Software Development Life Cycle (SDLC) of Teams+ extension through beta testing, improved product development requirements and business processes
-
-• Surveyed over 25 streamers and addressed feedback, corrected adjustments for cross-functionality and usability of the extension page
-
+     • Designed user UX extension dashboard for easier navigation of creating safer communities between close-knit streamers, providing levels of trust for chatters and personalized interactions to streamers
+     • Managed and analyzed Software Development Life Cycle (SDLC) of Teams+ extension through beta testing, improved product development requirements and business processes
+     • Surveyed over 25 streamers and addressed feedback, corrected adjustments for cross-functionality and usability of the extension page
 
 🔭 I’m currently working on UC Berkeley projects!
 
