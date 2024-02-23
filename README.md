@@ -33,7 +33,7 @@ const awen = {
   school: ["univeristy of calironia davis"],
   clubs: {
     "Formula One at UC Davis": {
-      role: "math"
+      role: "operations and firmware"
     },
     "Economics Business Student Association": {
       role: "member"
