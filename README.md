@@ -51,7 +51,7 @@ Databases: MySQL, CockroachDB
 
 ### HackDavis, AI Cancer Detection, Jan 2020
 • Development model for defining stages of cancer and development of highly accurate Artificial Intelligence models with 99.17% accuracy  
-• Building initial regression model of Convolutional Neural Network (CNN) in Google Colab for cancer comparisons
+• Building initial regression model of Convolutional Neural Network (CNN) in Google Colab for cancer comparisons  
 • Working with large dataset of over 1000+ images and eliminated confounding images
 
 ### TwitchCon Developers, Teams +, Sep 2019
