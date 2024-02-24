@@ -34,7 +34,7 @@ Artificial Intelligence, Machine Learning, Object Orientated Programming, Data S
 ## Skills
 Languages: Python, HTML/CSS, MATLAB, SQL, Stata
 Libraries: PyTorch, Tensorflow, Pandas, NumPy, Matplotlib, Scikit-learn, Keras, Seaborn
-Other Software: MySQL, Google Colab, Jupyter Notebook, Vercel, Tesseract OCR (Optical Object Reading), LaTeX, Figma, Tableau
+Other Software: MySQL, Google Colab, Jupyter Notebook, Vercel, Tesseract OCR , LaTeX, Figma, Tableau
 Databases: MySQL, CockroachDB
 
 ## Highlighted Projects
@@ -47,12 +47,12 @@ Databases: MySQL, CockroachDB
 
 ### UCLA Hacks, AI Brainwave Seizure Detection, Apr 2022 - Present
 • Intricate deep brain modeling of neurons and defining specific parts of the brain triggers  
-• Developed data visualization graphs through MATLAB and TensorFlow usage for Electroencephalogram (EEG) data analysis  
+• Developed data visualization graphs through MATLAB and TensorFlow usage for Electroencephalogram data analysis  
 • Front-end development using HTML/CSS, provided user interface with ease of navigation and usage  
 
 ### HackDavis, AI Cancer Detection, Jan 2020
 • Development model for defining stages of cancer and development of highly accurate Artificial Intelligence models with 99.17% accuracy  
-• Building initial regression model of Convolutional Neural Network (CNN) in Google Colab for cancer comparisons  
+• Building initial regression model of Convolutional Neural Network in Google Colab for cancer comparisons  
 • Working with large dataset of over 1000+ images and eliminated confounding images  
 
 ### TwitchCon Developers, Teams +, Sep 2019
