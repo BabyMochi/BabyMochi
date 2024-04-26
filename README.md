@@ -35,7 +35,7 @@ Artificial Intelligence, Machine Learning, Object Orientated Programming, Data S
 Languages: Python, HTML/CSS, MATLAB, SQL, Stata  
 Libraries: PyTorch, Tensorflow, Pandas, NumPy, Matplotlib, Scikit-learn, Keras, Seaborn  
 Other Software: MySQL, Google Colab, Jupyter Notebook, Vercel, Tesseract OCR , LaTeX, Figma, Tableau  
-Databases: MySQL, CockroachDB
+Databases: MySQL, CockroachDB, SQLite
 
 ## Highlighted Projects
 
