@@ -9,7 +9,7 @@ const awenli = {
 }
 ```
 
-🔭 I am currently working on UC Berkeley projects!
+🔭
 
 <!--
 **BabyMochi/BabyMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
