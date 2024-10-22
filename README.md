@@ -9,7 +9,7 @@ const awenli = {
 }
 ```
 
-🔭Currently working on new data visualization projects
+🔭 Currently working on new data visualization projects
 
 <!--
 **BabyMochi/BabyMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -75,8 +75,8 @@ Databases: MySQL, CockroachDB, SQLite
 ## Interests
 While not working, some of my interests are running, photography, dancing, ML and AI, eating out, and of course hackathons
 
-🌱 currently working on large SQL data and looking to incorporate it with ai and ml models
+🌱 Currently working on large SQL data and incorporating it with ai and ml models
 
-🔬 currently tinkering with projects using pytorch and tensorflow!
+🔬 Currently tinkering with projects using Tableau and data manipulation!
 
 😄 I am also currently learning Korean language!
