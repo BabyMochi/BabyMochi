@@ -1,5 +1,5 @@
-# Hello!, 안녕하세요!, Ciao!, 你好!, Bonjour!
-## I'm Awen Li and welcome to my coding space 👨‍💻👋
+# Hello!
+## I'm Awen Li and welcome to my coding space resume 👨‍💻👋
 
  ```cpp
 const awenli = {
