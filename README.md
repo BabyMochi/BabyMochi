@@ -35,23 +35,24 @@ Artificial Intelligence, Machine Learning, Object Orientated Programming, Data S
 Languages: Python, HTML/CSS, MATLAB, SQL, Stata  
 Libraries: PyTorch, Tensorflow, Pandas, NumPy, Matplotlib, Scikit-learn, Keras, Seaborn  
 Other Software: MySQL, Google Colab, Jupyter Notebook, Vercel, Tesseract OCR , LaTeX, Figma, Tableau  
-Databases: MySQL, CockroachDB, SQLite
+Databases: MySQL, CockroachDB, SQLite, DBeaver
 
 ## Highlighted Projects
 
-### UC Berkeley Cal Hacks, Predict A Pulse AI, Oct 2023 - Present
-  • Front-end website design and deployment using Figma and Vercel  
+### UC Berkeley Cal Hacks 10.0, Predict A Pulse AI, Oct 2023 - Present
+  • Front-end website design and deployment using Figma and Vercel
   • Database management using CockroachDB and SQL, helped hosted over thousands of datasets  
   • Image transformation to character reading with Tesseract OCR (Optical Object Reading)  
-  • Addressing post-forward custom backend API problem  
+  • Addressing post-forward custom backend API problem
 
 ### UCLA Hacks, AI Brainwave Seizure Detection, Apr 2022 - Present
-• Intricate deep brain modeling of neurons and defining specific parts of the brain triggers  
+• Modeling and created dashboard visualizations
+• Intricate deep brain modeling of neurons and defining specific parts of the brain triggers
 • Developed data visualization graphs through MATLAB and TensorFlow usage for Electroencephalogram data analysis  
 • Front-end development using HTML/CSS, provided user interface with ease of navigation and usage  
 
 ### HackDavis, AI Cancer Detection, Jan 2020
-• Development model for defining stages of cancer and development of highly accurate Artificial Intelligence models with 99.17% accuracy  
+• Development of visualization model for defining stages of cancer and development of highly accurate Artificial Intelligence models with 99.17% accuracy  
 • Building initial regression model of Convolutional Neural Network in Google Colab for cancer comparisons  
 • Working with large dataset of over 1000+ images and eliminated confounding images  
 
