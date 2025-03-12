@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 Artificial Intelligence, Machine Learning, Object Orientated Programming, Data Structures, Algorithms and Design, Discrete Math, Linear Algebra, Econometrics, Applied Statistics
 
 ## Skills
-Languages: Python, HTML/CSS, MATLAB, SQL, Stata  
+Languages: Python, SQL, HTML/CSS, MATLAB, Stata  
 Libraries: PyTorch, Tensorflow, Pandas, NumPy, Matplotlib, Scikit-learn, Keras, Seaborn  
 Other Software: MySQL, Google Colab, Jupyter Notebook, Vercel, Tesseract OCR , LaTeX, Figma, Tableau  
 Databases: MySQL, CockroachDB, SQLite, DBeaver
