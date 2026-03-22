@@ -46,8 +46,8 @@ Databases: MySQL, CockroachDB, SQLite, DBeaver
 • Addressing post-forward custom backend API problem
 
 ### UCLA Hacks, AI Brainwave Seizure Detection
-• Modeling and created dashboard visualizations
-• Intricate deep brain modeling of neurons and defining specific parts of the brain triggers
+• Modeling and created dashboard visualizations  
+• Intricate deep brain modeling of neurons and defining specific parts of the brain triggers  
 • Developed data visualization graphs through MATLAB and TensorFlow usage for Electroencephalogram data analysis  
 • Front-end development using HTML/CSS, provided user interface with ease of navigation and usage  
 
