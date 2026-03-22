@@ -40,10 +40,10 @@ Databases: MySQL, CockroachDB, SQLite, DBeaver
 ## Highlighted Projects
 
 ### UC Berkeley Cal Hacks 10.0, Predict A Pulse AI, Oct 2023 - Present
-  • Front-end website design and deployment using Figma and Vercel
-  • Database management using CockroachDB and SQL, helped hosted over thousands of datasets  
-  • Image transformation to character reading with Tesseract OCR (Optical Object Reading)  
-  • Addressing post-forward custom backend API problem
+• Front-end website design and deployment using Figma and Vercel
+• Database management using CockroachDB and SQL, helped hosted over thousands of datasets  
+• Image transformation to character reading with Tesseract OCR (Optical Object Reading)  
+• Addressing post-forward custom backend API problem
 
 ### UCLA Hacks, AI Brainwave Seizure Detection, Apr 2022 - Present
 • Modeling and created dashboard visualizations
@@ -64,7 +64,7 @@ Databases: MySQL, CockroachDB, SQLite, DBeaver
 ## Leadership
 ### Formula One Racing at UC Davis - Operations and Firmware Team, Oct 2022 – Jun 2023
 • Collaborated with sub-team of 10 engineers on writing and developing firmware for F1 race car  
-• Tested functional operations and safety parameters of car. and optimized control improvements of wind resistance and torque control during acceleration by 20% on tarmac  
+• Tested functional operations and safety parameters of car and optimized control improvements of wind resistance and torque control during acceleration by 20% on tarmac  
 • Managed sponsoring events and budgetary at downtown local restaurants to raise over $3,000 for necessary equipment of the car  
 
 
