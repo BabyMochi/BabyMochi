@@ -39,24 +39,24 @@ Databases: MySQL, CockroachDB, SQLite, DBeaver
 
 ## Highlighted Projects
 
-### UC Berkeley Cal Hacks 10.0, Predict A Pulse AI, Oct 2023 - Present
+### UC Berkeley Cal Hacks 10.0, Predict A Pulse AI
 • Front-end website design and deployment using Figma and Vercel
 • Database management using CockroachDB and SQL, helped hosted over thousands of datasets  
 • Image transformation to character reading with Tesseract OCR (Optical Object Reading)  
 • Addressing post-forward custom backend API problem
 
-### UCLA Hacks, AI Brainwave Seizure Detection, Apr 2022 - Present
+### UCLA Hacks, AI Brainwave Seizure Detection
 • Modeling and created dashboard visualizations
 • Intricate deep brain modeling of neurons and defining specific parts of the brain triggers
 • Developed data visualization graphs through MATLAB and TensorFlow usage for Electroencephalogram data analysis  
 • Front-end development using HTML/CSS, provided user interface with ease of navigation and usage  
 
-### HackDavis, AI Cancer Detection, Jan 2020
+### HackDavis, AI Cancer Detection
 • Development of visualization model for defining stages of cancer and development of highly accurate Artificial Intelligence models with 99.17% accuracy  
 • Building initial regression model of Convolutional Neural Network in Google Colab for cancer comparisons  
 • Working with large dataset of over 1000+ images and eliminated confounding images  
 
-### TwitchCon Developers, Teams +, Sep 2019
+### TwitchCon Developers, Teams +
 • Focused on providing levels of trsut for streamers members within streaming communities through safety extension  
 • User UX extension dashboard for easier navigation of creating safer communities between close-knit streamers, personalized interactions to streamers  
 • Analyzing and testing of Teams+ extension through beta testing, improved product development requirements  
